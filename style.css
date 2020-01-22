@@ -1,0 +1,99 @@
+*{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;    
+    font-family: 'Slabo 27px', serif;
+}
+header{
+    background-color: white;
+    height: 75px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+}
+nav{
+    background-color: rgb(247, 240, 240);
+    width: 100%;
+    text-align: center;
+    height: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px ;
+    font-size: x-large;
+}
+nav a{
+    text-decoration: none;
+    font-size: 24px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+main{
+    background-image: url("./image/download (1).jpeg");
+    height: 600px;
+    padding-top: 300px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+footer{
+    background-color: rgb(202, 202, 202);
+    height: 170px;
+    width: 100%;
+    padding-top: 40px;
+    padding-bottom: 40px; 
+
+}
+section{
+    background-color: rgb(243, 0, 0);
+    height: 240px;
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;    
+}
+h1{
+    font-size: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(155, 134, 155);
+    padding-left: 150px;
+}
+p{
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    padding-left: 150px;
+    padding-right:600px;
+}
+footer a img{
+    height: 180px;
+    width: 250px;
+    padding-left: 63px;
+    padding-right: 63px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+article{
+    height: 80px;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    
+}
+section video{
+    width: 45%;
+}
+aside{
+    height: 720px;
+    background-color: rgb(135, 182, 143);
+    color: grey; 
+}
+h3{
+    padding-left: 150px;
+}
+article> ul > li{
+    list-style-type: none;
+}
